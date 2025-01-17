@@ -1,6 +1,3 @@
-// Written with guidance code from chapter 2 of "Fundamentals of C++ Programming" by Richard L. Halterman
-// Comments from me as notes of reference
-
 #include <iostream>
 
 // Statement name simplifications:
